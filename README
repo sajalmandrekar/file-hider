@@ -1,0 +1,3 @@
+encrypt.py and decrypt.py should be in the directory where your files you want to encrypt are stored.
+encrypt.py changes the extention on the multimedia file
+decrypt.py changes the modified extention to the original one.
