@@ -2,7 +2,6 @@ encrypt.py and decrypt.py should be in the directory where your files you want t
 encrypt.py changes the extention on the multimedia file
 decrypt.py changes the modified extention to the original one.
 
-Note: the above scripts only change the extention of the files and doesn't in any way encrypt them
+Note: the above scripts only change the extention of the files and doesn't encrypt them
 
-You are free to Contribute in any way:
-Just mention in the issues for collaboration
+You are free to Contribute: Just mention in the issues for collaboration
