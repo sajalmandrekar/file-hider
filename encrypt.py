@@ -41,6 +41,7 @@ def encrypt():
 
 #######################################################################
 if askpermission():
+  print("Ma man! Encrypting in process!")
   encrypt()
 else:
-  print("permission denied!")
+  print("Permission denied! F*ck Off!")
